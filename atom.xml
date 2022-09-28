@@ -34,11 +34,11 @@
     
     
     
-    <category term="Web" scheme="https://pikachen-pick.github.io/tags/Web/"/>
-    
     <category term="Vue2" scheme="https://pikachen-pick.github.io/tags/Vue2/"/>
     
     <category term="Vue3" scheme="https://pikachen-pick.github.io/tags/Vue3/"/>
+    
+    <category term="Web" scheme="https://pikachen-pick.github.io/tags/Web/"/>
     
   </entry>
   
@@ -57,11 +57,11 @@
     
     
     
+    <category term="Web" scheme="https://pikachen-pick.github.io/tags/Web/"/>
+    
     <category term="前端" scheme="https://pikachen-pick.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
     <category term="Vite" scheme="https://pikachen-pick.github.io/tags/Vite/"/>
-    
-    <category term="Web" scheme="https://pikachen-pick.github.io/tags/Web/"/>
     
     <category term="Webpack" scheme="https://pikachen-pick.github.io/tags/Webpack/"/>
     
