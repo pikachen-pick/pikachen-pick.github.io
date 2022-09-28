@@ -3,11 +3,11 @@
   <title>来动力小子家喝杯啤酒吧</title>
   
   
-  <link href="https://pikachen-pick.github.io/pikachen-pick.github.io/atom.xml" rel="self"/>
+  <link href="https://pikachen-pick.github.io/atom.xml" rel="self"/>
   
-  <link href="https://pikachen-pick.github.io/pikachen-pick.github.io/"/>
+  <link href="https://pikachen-pick.github.io/"/>
   <updated>2022-08-09T07:11:42.000Z</updated>
-  <id>https://pikachen-pick.github.io/pikachen-pick.github.io/</id>
+  <id>https://pikachen-pick.github.io/</id>
   
   <author>
     <name>Pikachen</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>论Vue2升级到Vue3的琐事（一）</title>
-    <link href="https://pikachen-pick.github.io/pikachen-pick.github.io/posts/7c066ae8.html"/>
-    <id>https://pikachen-pick.github.io/pikachen-pick.github.io/posts/7c066ae8.html</id>
+    <link href="https://pikachen-pick.github.io/posts/7c066ae8.html"/>
+    <id>https://pikachen-pick.github.io/posts/7c066ae8.html</id>
     <published>2022-08-01T12:48:23.000Z</published>
     <updated>2022-08-09T07:11:42.000Z</updated>
     
@@ -34,18 +34,18 @@
     
     
     
-    <category term="Web" scheme="https://pikachen-pick.github.io/pikachen-pick.github.io/tags/Web/"/>
+    <category term="Web" scheme="https://pikachen-pick.github.io/tags/Web/"/>
     
-    <category term="Vue2" scheme="https://pikachen-pick.github.io/pikachen-pick.github.io/tags/Vue2/"/>
+    <category term="Vue2" scheme="https://pikachen-pick.github.io/tags/Vue2/"/>
     
-    <category term="Vue3" scheme="https://pikachen-pick.github.io/pikachen-pick.github.io/tags/Vue3/"/>
+    <category term="Vue3" scheme="https://pikachen-pick.github.io/tags/Vue3/"/>
     
   </entry>
   
   <entry>
     <title>将Webpack项目转为Vite项目</title>
-    <link href="https://pikachen-pick.github.io/pikachen-pick.github.io/posts/b8f5c976.html"/>
-    <id>https://pikachen-pick.github.io/pikachen-pick.github.io/posts/b8f5c976.html</id>
+    <link href="https://pikachen-pick.github.io/posts/b8f5c976.html"/>
+    <id>https://pikachen-pick.github.io/posts/b8f5c976.html</id>
     <published>2022-07-08T12:59:53.000Z</published>
     <updated>2022-07-09T07:11:42.000Z</updated>
     
@@ -57,13 +57,13 @@
     
     
     
-    <category term="前端" scheme="https://pikachen-pick.github.io/pikachen-pick.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://pikachen-pick.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="Vite" scheme="https://pikachen-pick.github.io/pikachen-pick.github.io/tags/Vite/"/>
+    <category term="Vite" scheme="https://pikachen-pick.github.io/tags/Vite/"/>
     
-    <category term="Web" scheme="https://pikachen-pick.github.io/pikachen-pick.github.io/tags/Web/"/>
+    <category term="Web" scheme="https://pikachen-pick.github.io/tags/Web/"/>
     
-    <category term="Webpack" scheme="https://pikachen-pick.github.io/pikachen-pick.github.io/tags/Webpack/"/>
+    <category term="Webpack" scheme="https://pikachen-pick.github.io/tags/Webpack/"/>
     
   </entry>
   
